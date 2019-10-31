@@ -1,3 +1,4 @@
 Changes should be ignored
 foo
 bla
+bla1
