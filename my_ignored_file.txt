@@ -1,1 +1,2 @@
 Changes should be ignored
+foo
